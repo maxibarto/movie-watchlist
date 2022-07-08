@@ -16,7 +16,9 @@ I've learned:
 - Callbacks
   - Functions as first-class objects
   - Built own `.filter()`
+###### Part 2
 - Promises
   - Three states (pending, fulfilled, rejected)
   - `.then()` and chaining
+###### Part 3
 - Async/Await
